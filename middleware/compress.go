@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	echo "gopkg.in/labstack/echo.v1"
+	echo "github.com/Applifier/echo"
 )
 
 type (
